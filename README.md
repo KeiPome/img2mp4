@@ -15,7 +15,7 @@ Convert a sequence of images to a video file using OpenCV.
 ## 使用方法(streamlit)
 ターミナルまたはコマンドプロンプトを開き、アプリケーションが保存されているディレクトリに移動します。  
 以下のコマンドを実行して、Streamlitアプリを起動します。  
-`pip install -r requirements.txt`  
+`streamlit run main.py`  
 ブラウザが自動的に開き、アプリケーションのインターフェースが表示されます。  
 
 画面の指示に従って、画像フォルダのパス、出力フォルダのパス、フレームレート(FPS)、バッチサイズ、および動画を結合するかどうかを入力します。  

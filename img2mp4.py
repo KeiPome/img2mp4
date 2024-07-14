@@ -53,6 +53,7 @@ class Img2MP4:
 
             if not batch_imgs:
                 continue
+            
 
             key = f"{filename}_batch_{batch}"
             mp4_name = f"{self.output_folder}/{key}.mp4"
