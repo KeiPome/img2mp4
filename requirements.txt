@@ -1,0 +1,15 @@
+opencv-python
+moviepy
+numpy
+pandas
+matplotlib
+glob
+pillow
+os
+shutil
+re
+datetime
+time
+sys
+subprocess
+streamlit
