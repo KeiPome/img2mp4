@@ -1,0 +1,38 @@
+# general
+.DS_Store
+*.ini
+.vscode
+
+# virtualenv
+.venv
+venv
+ENV/
+
+# pyenv
+.python-version
+
+# jupyter
+.ipynb_checkpoints
+
+# img
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.ico
+*.svg
+*.mp4
+
+# large files
+*.zip
+*.gz
+*.tar
+*.tgz
+*.rar
+*.7z
+*.dmg
+*.iso
+*.bin
+*.exe
+*.dll
+*.pptx
